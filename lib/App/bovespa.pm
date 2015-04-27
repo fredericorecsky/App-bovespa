@@ -56,7 +56,7 @@ App::bovespa - Simple tool to follow up your stocks at Bovespa Stock Exchange
 
 =head1 VERSION
 
-Version 0.001
+Version 0.002
 
 =head1 SYNOPSIS
 
