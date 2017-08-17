@@ -6,7 +6,6 @@ perl:
   - "5.16"
 env: PERL_MM_USE_DEFAULT=1
 before_install:
-  - cpan o conf init
   - cpanm CPAN::Uploader
 install:
   - cpanm --quiet --notest --skip-satisfied Dist::Zilla
